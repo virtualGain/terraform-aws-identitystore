@@ -1,4 +1,4 @@
-forked from git::https://github.com/avlcloudtechnologies/terraform-aws-config.git?ref=v0.1.0"
+forked fromb https://github.com/avlcloudtechnologies/terraform-aws-config.git
 
 
 # terraform-aws-identitystore
