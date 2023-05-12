@@ -5,7 +5,7 @@ This module handles creation of AWS SSO identity groups and users
 
 ```hcl
 module "aws_identitystore" {
-  source = "git::https://github.com/avlcloudtechnologies/terraform-aws-config.git?ref=v0.1.0
+  source = "git::https://github.com/virtualgain/terraform-aws-config.git?ref=v0.1.1
 
   sso_groups = {
     admins = {
